@@ -74,10 +74,7 @@ class Program
 
         
 
-        IEnumerable<Funcionario> listaFuncionarios = 
-            from funcionario in 
-            orderby funcionario.Sobrenome ascending, funcionario.Nome ascending
-            select funcionario;
+        
 
         foreach (Funcionario funcionario in listaFuncionarios)
         {
