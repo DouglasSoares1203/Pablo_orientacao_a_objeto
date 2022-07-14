@@ -1,0 +1,15 @@
+C:\projetos\c#\Pablo_orientacao_a_objeto\bin\Debug\net6.0\Pablo_orientacao_a_objeto.exe
+C:\projetos\c#\Pablo_orientacao_a_objeto\bin\Debug\net6.0\Pablo_orientacao_a_objeto.deps.json
+C:\projetos\c#\Pablo_orientacao_a_objeto\bin\Debug\net6.0\Pablo_orientacao_a_objeto.runtimeconfig.json
+C:\projetos\c#\Pablo_orientacao_a_objeto\bin\Debug\net6.0\Pablo_orientacao_a_objeto.dll
+C:\projetos\c#\Pablo_orientacao_a_objeto\bin\Debug\net6.0\Pablo_orientacao_a_objeto.pdb
+C:\projetos\c#\Pablo_orientacao_a_objeto\obj\Debug\net6.0\Pablo_orientacao_a_objeto.csproj.AssemblyReference.cache
+C:\projetos\c#\Pablo_orientacao_a_objeto\obj\Debug\net6.0\Pablo_orientacao_a_objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\c#\Pablo_orientacao_a_objeto\obj\Debug\net6.0\Pablo_orientacao_a_objeto.AssemblyInfoInputs.cache
+C:\projetos\c#\Pablo_orientacao_a_objeto\obj\Debug\net6.0\Pablo_orientacao_a_objeto.AssemblyInfo.cs
+C:\projetos\c#\Pablo_orientacao_a_objeto\obj\Debug\net6.0\Pablo_orientacao_a_objeto.csproj.CoreCompileInputs.cache
+C:\projetos\c#\Pablo_orientacao_a_objeto\obj\Debug\net6.0\Pablo_orientacao_a_objeto.dll
+C:\projetos\c#\Pablo_orientacao_a_objeto\obj\Debug\net6.0\refint\Pablo_orientacao_a_objeto.dll
+C:\projetos\c#\Pablo_orientacao_a_objeto\obj\Debug\net6.0\Pablo_orientacao_a_objeto.pdb
+C:\projetos\c#\Pablo_orientacao_a_objeto\obj\Debug\net6.0\Pablo_orientacao_a_objeto.genruntimeconfig.cache
+C:\projetos\c#\Pablo_orientacao_a_objeto\obj\Debug\net6.0\ref\Pablo_orientacao_a_objeto.dll
