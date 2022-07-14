@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\c#\\Pablo_orientacao_a_objeto\\Pablo_orientacao_a_objeto.csproj",
+      "projectUniqueName": "C:\\projetos\\c#\\Exercicios c#\\Pablo_orientacao_a_objeto\\Pablo_orientacao_a_objeto.csproj",
       "projectName": "Pablo_orientacao_a_objeto",
-      "projectPath": "C:\\projetos\\c#\\Pablo_orientacao_a_objeto\\Pablo_orientacao_a_objeto.csproj",
+      "projectPath": "C:\\projetos\\c#\\Exercicios c#\\Pablo_orientacao_a_objeto\\Pablo_orientacao_a_objeto.csproj",
       "packagesPath": "C:\\Users\\DOUGLAS\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\c#\\Pablo_orientacao_a_objeto\\obj\\",
+      "outputPath": "C:\\projetos\\c#\\Exercicios c#\\Pablo_orientacao_a_objeto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DOUGLAS\\AppData\\Roaming\\NuGet\\NuGet.Config"
