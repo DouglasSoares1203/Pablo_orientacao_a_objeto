@@ -8,7 +8,7 @@ class Program
 {
     public static List<Funcionario> listaFuncionarios = new List<Funcionario>();
 
-    List<Funcionario> funcionarios = new List<Funcionario>();
+    
 
     public static void Main(string[] args)
     {
@@ -73,10 +73,10 @@ class Program
         Console.WriteLine("Lista atualizada de funcionários:");
 
         
-
+        IEnumerable<Funcionario> query = listaFuncionarios.OrderBy(x => x.Sobrenome);
         
 
-        foreach (Funcionario funcionario in listaFuncionarios)
+        foreach (Funcionario funcionario in query)
         {
             Console.WriteLine("Nome: " + funcionario.Nome + " " +  funcionario.Sobrenome);
         }
